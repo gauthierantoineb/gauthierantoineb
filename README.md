@@ -17,7 +17,7 @@ modélisation analytique, KPI, dashboards et recommandations business.
 
 ## Stack
 
-SQL · BigQuery · Looker Studio · Google Sheets · Python · pandas · scikit-learn · GitHub
+SQL · BigQuery · Looker Studio · Google Sheets · Python · pandas
 
 ## Ce que je démontre
 
@@ -27,6 +27,3 @@ SQL · BigQuery · Looker Studio · Google Sheets · Python · pandas · scikit-
 - créer des dashboards orientés décision ;
 - formuler des recommandations actionnables ;
 - expliciter les limites des analyses.
-
-
--->
