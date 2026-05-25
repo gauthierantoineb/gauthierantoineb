@@ -2,7 +2,7 @@
 
 SQL · BigQuery · Looker Studio · Product Analytics · Business Intelligence
 
-Data Analyst avec un socle en mathématiques, statistiques et machine learning.
+Data Analyst avec un socle en mathématiques et statistiques.
 Je construis des analyses orientées décision : préparation de données, contrôle qualité,
 modélisation analytique, KPI, dashboards et recommandations business.
 
