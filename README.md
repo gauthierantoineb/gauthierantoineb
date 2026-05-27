@@ -12,7 +12,7 @@ modélisation analytique, KPI, dashboards et recommandations business.
 |---|---|---|---|
 | [Sales Analytics — Coffee Shop](https://github.com/gauthierantoineb/analyse-ventes-coffee-shop-bigquery-lookerstudio) | Identifier les drivers du chiffre d’affaires | BigQuery, SQL, Looker Studio | KPI, dashboard, recommandations |
 | [Operations Analytics — Citi Bike](https://github.com/gauthierantoineb/optimisation-reseau-citibike-bigquery-lookerstudio) | Prioriser les stations à rééquilibrer | BigQuery, SQL, Looker Studio | modélisation, scoring, dashboard |
-| [Product Analytics — GA4 E-commerce](LIEN_DU_REPO_GA4_ICI) | Analyser un funnel utilisateur | BigQuery, GA4, Looker Studio | funnel, conversion, comportement utilisateur |
+| [Product Analytics — GA4 E-commerce](https://github.com/gauthierantoineb/product-analytics-ga4-ecommerce) | Analyser un funnel utilisateur | BigQuery, GA4| funnel, conversion, comportement utilisateur |
 | [Geo Analytics — Prix carburants](https://github.com/gauthierantoineb/prix-carburants-loire-atlantique) | Comparer prix et distance | BigQuery, géospatial, Looker Studio | contrôle qualité, géospatial, BI |
 
 ## Stack
